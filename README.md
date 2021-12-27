@@ -1,2 +1,2 @@
-# NDP-Proje
-Atık oyunu 
+# Atık Oyunu
+Nesneye dayalı programlama dersi ödevi
